@@ -2,3 +2,4 @@
 logs
 *.log
 data
+.DS_Store
